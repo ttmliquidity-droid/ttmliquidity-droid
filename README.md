@@ -43,7 +43,7 @@ motto: "If it isn't colourful, it isn't done yet."
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebAudio-FF6B6B?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAudio-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
