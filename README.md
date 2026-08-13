@@ -77,6 +77,12 @@ motto: "If it isn't colourful, it isn't done yet."
 
 ---
 
+## 🤖 What I'm Building
+
+- 🩸 **Kairos** — my autonomous ICT/Smart-Money trading agent. Reads market structure, places risk-gated limit orders through a Python bridge to MetaTrader 5, and runs 24/7 with code-enforced risk rules (1% per trade, 3% daily / 6% weekly breakers, 3R minimums). *A demo-account project — no secrets on display.*
+
+---
+
 ## 🎨 Fun Fact
 
 I can synthesize *all* my game audio in real time with WebAudio — no sound files, no downloads, just math and a dream. 🎧✨
